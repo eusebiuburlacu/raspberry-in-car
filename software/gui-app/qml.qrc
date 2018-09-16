@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>screens/NavScreen.qml</file>
+        <file>screens/AudioScreen.qml</file>
+        <file>screens/VideoScreen.qml</file>
+        <file>screens/SettingsScreen.qml</file>
+        <file>screens/HomeScreen.qml</file>
+        <file>controls/HomeButton.qml</file>
+        <file>images/home_button.png</file>
+    </qresource>
+</RCC>
